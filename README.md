@@ -1,15 +1,16 @@
-<h1>Mood Tracker</h1>
+<h1>Advice Generator</h1>
 
- ### [YouTube Demonstration](https://youtu.be/ZB5vnhwJjvY)
+ ### [YouTube Demonstration](https://youtu.be/9kwwN6IHJ18)
 
 <h2>Description</h2>
-Track your moods, reflect daily, and view patterns over time — all in one clean and simple Flutter app.
+Get advice with a single tap!
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Dart & Flutter</b>
+- <b>Advice API (https://api.adviceslip.com/)</b>
 
 <h2>Environments Used </h2>
 
@@ -20,32 +21,28 @@ Track your moods, reflect daily, and view patterns over time — all in one clea
 
 <p align="center">
 Splash screen: <br/>
-<img src="https://i.imgur.com/gDdFglI.png" height="500%" width="100%" />
+<img src="https://i.imgur.com/ZNkGRsU.png" height="500%" width="100%" />
 <br />
 <br />
-Notifications: <br/>
-<img src="https://i.imgur.com/DTUJ4U5.png" height="500%" width="100%" />
+Login screen: <br/>
+<img src="https://i.imgur.com/EQ1R0Nq.png" height="500%" width="100%" />
+<br />
+<br />
+Sign in screen: <br/>
+<img src="https://i.imgur.com/K1bRPPY.png" height="500%" width="100%" />
+<br />
+<br />
+Sign up screen: <br/>
+<img src="https://i.imgur.com/Mtcnt0E.png" height="500%" width="100%" />
 <br />
 <br />
 Home screen: <br/>
-<img src="https://i.imgur.com/61O1lGZ.png" height="500%" width="100%" />
+<img src="https://i.imgur.com/AnX7Zr4.png" height="500%" width="100%" />
 <br />
 <br />
-<img src="https://i.imgur.com/1YCVUGf.png" height="500%" width="100%" />
+No internet: <br/>
+<img src="https://i.imgur.com/TU6xicj.png" height="500%" width="100%" />
 <br />
 <br />
-Calendar screen: <br/>
-<img src="https://i.imgur.com/BuukFHR.png" height="500%" width="100%" />
-<br />
-<br />
-<img src="https://i.imgur.com/VxpMhYT.png" height="500%" width="100%" />
-<br />
-<br />
-<img src="https://i.imgur.com/qCZd5m0.png" height="500%" width="100%" />
-<br />
-<br />
-Stats screen: <br/>
-<img src="https://i.imgur.com/176j6pd.png" height="500%" width="100%" />
-<br />
-<br />
+
 
